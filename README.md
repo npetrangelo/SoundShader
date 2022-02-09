@@ -1,2 +1,2 @@
-# SoundShader
-A VST plugin for writing shaders to generate audio or apply audio effects.
+# SoundShaderEffect
+A VST plugin for writing shaders to apply audio effects.
